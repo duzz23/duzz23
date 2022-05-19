@@ -38,6 +38,4 @@ Programming languages: Python, CSS, HTML Databases: MySQL. PostgreSQL, QSLAlchem
 
 <a href="https://github.com/duzz23" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duzz23&langs_count=10&title_color=3382ed&text_color=3382ed&icon_color=64748b&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### Support Me
 
-<a href="https://www.buymeacoffee.com/Du"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
